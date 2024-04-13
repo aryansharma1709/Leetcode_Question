@@ -5,8 +5,10 @@ class Solution {
         sum+=x;
         if(sum<k)
         return 0;
+        else if(sum==k)
+            return 1;
         long s=1;
-        long e=sum;
+        long e=sum/k;
         long ans=0;
         while(s<=e)
         {
