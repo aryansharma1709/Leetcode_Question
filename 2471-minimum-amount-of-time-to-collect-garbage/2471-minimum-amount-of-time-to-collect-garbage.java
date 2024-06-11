@@ -1,40 +1,26 @@
 class Solution {
-    public int garbageCollection(String[] gar, int[] t) {
-        int n = gar.length;
-        int ans = 0;
-        int G_home = 0;
-        int P_home = 0;
-        int M_home = 0;
-        for (int i = 0; i < n; i++) {
-            String str = gar[i];
-            int str_len = str.length();
-            if (gar[i].contains("G")) {
-                int G_len = str_len - str.replace("G", "").length();
-                // System.out.println(G_len+"G");
-                ans += G_len;
-                G_home = i;
-            }
-            if (gar[i].contains("P")) {
-                int P_len = str_len - str.replace("P", "").length();
-                // System.out.println(P_len+"p");
-                ans += P_len;
-                P_home = i;
-            }
-            if (gar[i].contains("M")) {
-                int M_len = str_len - str.replace("M", "").length();
-
-                // System.out.println(M_len+"M");
-                ans += M_len;
-                M_home = i;
-            }
+    public int garbageCollection(String[] garbage, int[] travel) {
+        int n=garbage.length;
+        int ans=0;
+        int gi=0,mi=0, pi=0;
+        for(int i=0;i<n;i++)
+        {
+            ans+=garbage[i].length();
+            if(garbage[i].contains("G"))
+            gi=i;
+            if(garbage[i].contains("M"))
+            mi=i;
+            if(garbage[i].contains("P"))
+            pi=i;
         }
-        for (int i = 0; i < n; i++) {
-            if (i < G_home)
-                ans += t[i];
-            if (i < P_home)
-                ans += t[i];
-            if (i < M_home)
-                ans += t[i];
+        for(int i=0;i<travel.length;i++)
+        {
+            if(i<gi)
+            ans+=travel[i];
+            if(i<mi)
+            ans+=travel[i];
+            if(i<pi)
+            ans+=travel[i];
         }
         return ans;
     }
