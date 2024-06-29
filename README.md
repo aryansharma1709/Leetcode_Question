@@ -39,4 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0389-find-the-difference) |
+## Math
+|  |
+| ------- |
+| [0390-elimination-game](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0390-elimination-game) |
+## Recursion
+|  |
+| ------- |
+| [0390-elimination-game](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0390-elimination-game) |
 <!---LeetCode Topics End-->
