@@ -4,12 +4,12 @@ class Solution {
         if(t.length()==0) return false;
         
         int i=0, j=0;
-        while (i<s.length() && j<t.length()) {
-            if (s.charAt(i) == t.charAt(j)) {
+        while (i<s.length()&&j<t.length()) {
+            if (s.charAt(i)==t.charAt(j)) {
                 i++;
             }
             j++;
         }
-        return i == s.length();
+        return i==s.length();
     }
 }
