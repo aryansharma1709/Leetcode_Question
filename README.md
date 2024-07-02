@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0055-jump-game) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0393-utf-8-validation](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0393-utf-8-validation) |
 | [1293-three-consecutive-odds](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1293-three-consecutive-odds) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0389-find-the-difference) |
 | [2428-equal-row-and-column-pairs](https://github.com/aryansharma1709/Leetcode_Question/tree/master/2428-equal-row-and-column-pairs) |
 ## Matrix
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0389-find-the-difference) |
 ## Math
 |  |
@@ -59,10 +62,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0055-jump-game) |
+## Binary Search
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
