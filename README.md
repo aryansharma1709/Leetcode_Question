@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1293-three-consecutive-odds) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1720-crawler-log-folder](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1720-crawler-log-folder) |
 | [2428-equal-row-and-column-pairs](https://github.com/aryansharma1709/Leetcode_Question/tree/master/2428-equal-row-and-column-pairs) |
 ## Dynamic Programming
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0392-is-subsequence) |
+| [1720-crawler-log-folder](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1720-crawler-log-folder) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -81,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/aryansharma1709/Leetcode_Question/tree/master/2299-merge-nodes-in-between-zeros) |
+## Stack
+|  |
+| ------- |
+| [1720-crawler-log-folder](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->
