@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0393-utf-8-validation](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0393-utf-8-validation) |
 | [1293-three-consecutive-odds](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1293-three-consecutive-odds) |
+| [1333-sort-the-jumbled-numbers](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1333-sort-the-jumbled-numbers) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1720-crawler-log-folder) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0389-find-the-difference) |
+| [1333-sort-the-jumbled-numbers](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1333-sort-the-jumbled-numbers) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2502-sort-the-people](https://github.com/aryansharma1709/Leetcode_Question/tree/master/2502-sort-the-people) |
 ## Math
