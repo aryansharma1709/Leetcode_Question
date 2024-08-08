@@ -136,11 +136,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0101-symmetric-tree) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0988-flip-equivalent-binary-trees](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0988-flip-equivalent-binary-trees) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0101-symmetric-tree) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0988-flip-equivalent-binary-trees](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0988-flip-equivalent-binary-trees) |
 ## Breadth-First Search
 |  |
@@ -150,5 +152,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0101-symmetric-tree) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0988-flip-equivalent-binary-trees](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0988-flip-equivalent-binary-trees) |
 <!---LeetCode Topics End-->
