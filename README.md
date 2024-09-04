@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0198-house-robber) |
+| [0215-kth-largest-element-in-an-array](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0215-kth-largest-element-in-an-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0393-utf-8-validation](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0393-utf-8-validation) |
 | [0890-lemonade-change](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0890-lemonade-change) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0215-kth-largest-element-in-an-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0389-find-the-difference) |
 | [0948-sort-an-array](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0948-sort-an-array) |
@@ -115,10 +117,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -179,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0543-diameter-of-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0988-flip-equivalent-binary-trees) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
