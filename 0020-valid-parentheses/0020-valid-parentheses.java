@@ -16,7 +16,6 @@ class Solution {
             }
             i++;
         }
-        if(!st.isEmpty())return false;
-         return true;
+         return st.isEmpty();
     }
 }
