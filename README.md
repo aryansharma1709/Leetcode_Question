@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0392-is-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0070-climbing-stairs) |
 | [0390-elimination-game](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0390-elimination-game) |
 | [0539-minimum-time-difference](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0539-minimum-time-difference) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/aryansharma1709/Leetcode_Question/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -201,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0215-kth-largest-element-in-an-array) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
