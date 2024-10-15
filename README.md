@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0069-sqrtx) |
 | [0390-elimination-game](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0390-elimination-game) |
 | [0539-minimum-time-difference](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0539-minimum-time-difference) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/aryansharma1709/Leetcode_Question/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0069-sqrtx) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Linked List
 |  |
