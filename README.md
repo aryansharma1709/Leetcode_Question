@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1755-defuse-the-bomb](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1755-defuse-the-bomb) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/aryansharma1709/Leetcode_Question/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/aryansharma1709/Leetcode_Question/tree/master/2428-equal-row-and-column-pairs) |
 | [2502-sort-the-people](https://github.com/aryansharma1709/Leetcode_Question/tree/master/2502-sort-the-people) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/aryansharma1709/Leetcode_Question/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -54,11 +55,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/aryansharma1709/Leetcode_Question/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/aryansharma1709/Leetcode_Question/tree/master/2428-equal-row-and-column-pairs) |
 ## Simulation
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/aryansharma1709/Leetcode_Question/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/aryansharma1709/Leetcode_Question/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/aryansharma1709/Leetcode_Question/tree/master/2428-equal-row-and-column-pairs) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/aryansharma1709/Leetcode_Question/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## String
