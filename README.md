@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0393-utf-8-validation](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0393-utf-8-validation) |
 | [0539-minimum-time-difference](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0539-minimum-time-difference) |
+| [0787-sliding-puzzle](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0787-sliding-puzzle) |
 | [0890-lemonade-change](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0948-sort-an-array) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0787-sliding-puzzle](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1972-rotating-the-box](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/aryansharma1709/Leetcode_Question/tree/master/2089-maximum-matrix-sum) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0199-binary-tree-right-side-view) |
+| [0787-sliding-puzzle](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0787-sliding-puzzle) |
 ## Binary Tree
 |  |
 | ------- |
