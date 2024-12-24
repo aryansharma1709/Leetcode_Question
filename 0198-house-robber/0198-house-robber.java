@@ -3,13 +3,16 @@ class Solution {
         int n=nums.length;
       int dp[]=new int[n];
       Arrays.fill(dp,-1);
-      return maxLoot(dp,nums,n-1);
+      return maxLoot(dp,nums);
     }
-    public int maxLoot(int []dp,int[]arr,int idx)
+    public int maxLoot(int []dp,int[]arr)
     {
-        if(idx==0) return arr[idx];
-        if(idx<0) return 0;
-        if(dp[idx]!=-1) return dp[idx];
-        return dp[idx]=Math.max(arr[idx]+maxLoot(dp,arr,idx-2),0+maxLoot(dp,arr,idx-1));
+        dp[0]=arr[0];
+        for(int i=1;i<arr.length;i++)
+        {
+            dp[i]=Math.max((arr[i]+((i-2<0)?0:dp[i-2])),dp[i-1]);
+        }
+        
+        return dp[dp.length-1];
     }
 }
