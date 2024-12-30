@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0001-two-sum) |
 | [0045-jump-game-ii](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0063-unique-paths-ii) |
 | [0198-house-robber](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0215-kth-largest-element-in-an-array) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0213-house-robber-ii) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0063-unique-paths-ii) |
 | [0787-sliding-puzzle](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1972-rotating-the-box](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1972-rotating-the-box) |
