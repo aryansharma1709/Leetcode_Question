@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0392-is-subsequence) |
 | [0539-minimum-time-difference](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0539-minimum-time-difference) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1720-crawler-log-folder](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2232-adding-spaces-to-a-string](https://github.com/aryansharma1709/Leetcode_Question/tree/master/2232-adding-spaces-to-a-string) |
@@ -258,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0062-unique-paths) |
+## Prefix Sum
+|  |
+| ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1537-maximum-score-after-splitting-a-string) |
 <!---LeetCode Topics End-->
