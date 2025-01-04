@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0389-find-the-difference) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/aryansharma1709/Leetcode_Question/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2428-equal-row-and-column-pairs](https://github.com/aryansharma1709/Leetcode_Question/tree/master/2428-equal-row-and-column-pairs) |
 | [2502-sort-the-people](https://github.com/aryansharma1709/Leetcode_Question/tree/master/2502-sort-the-people) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/aryansharma1709/Leetcode_Question/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1720-crawler-log-folder](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/aryansharma1709/Leetcode_Question/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2232-adding-spaces-to-a-string](https://github.com/aryansharma1709/Leetcode_Question/tree/master/2232-adding-spaces-to-a-string) |
 | [2502-sort-the-people](https://github.com/aryansharma1709/Leetcode_Question/tree/master/2502-sort-the-people) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/aryansharma1709/Leetcode_Question/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0389-find-the-difference) |
 | [0393-utf-8-validation](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0393-utf-8-validation) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/aryansharma1709/Leetcode_Question/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/aryansharma1709/Leetcode_Question/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Sorting
 |  |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/aryansharma1709/Leetcode_Question/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/aryansharma1709/Leetcode_Question/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/aryansharma1709/Leetcode_Question/tree/master/2691-count-vowel-strings-in-ranges) |
 <!---LeetCode Topics End-->
