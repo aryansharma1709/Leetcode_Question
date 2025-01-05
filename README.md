@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/aryansharma1709/Leetcode_Question/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2358-number-of-ways-to-split-array](https://github.com/aryansharma1709/Leetcode_Question/tree/master/2358-number-of-ways-to-split-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/aryansharma1709/Leetcode_Question/tree/master/2428-equal-row-and-column-pairs) |
+| [2465-shifting-letters-ii](https://github.com/aryansharma1709/Leetcode_Question/tree/master/2465-shifting-letters-ii) |
 | [2502-sort-the-people](https://github.com/aryansharma1709/Leetcode_Question/tree/master/2502-sort-the-people) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/aryansharma1709/Leetcode_Question/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/aryansharma1709/Leetcode_Question/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/aryansharma1709/Leetcode_Question/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2232-adding-spaces-to-a-string](https://github.com/aryansharma1709/Leetcode_Question/tree/master/2232-adding-spaces-to-a-string) |
+| [2465-shifting-letters-ii](https://github.com/aryansharma1709/Leetcode_Question/tree/master/2465-shifting-letters-ii) |
 | [2502-sort-the-people](https://github.com/aryansharma1709/Leetcode_Question/tree/master/2502-sort-the-people) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/aryansharma1709/Leetcode_Question/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/aryansharma1709/Leetcode_Question/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -271,5 +273,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/aryansharma1709/Leetcode_Question/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/aryansharma1709/Leetcode_Question/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/aryansharma1709/Leetcode_Question/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/aryansharma1709/Leetcode_Question/tree/master/2691-count-vowel-strings-in-ranges) |
 <!---LeetCode Topics End-->
