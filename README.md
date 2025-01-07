@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1293-three-consecutive-odds](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1333-sort-the-jumbled-numbers) |
+| [1524-string-matching-in-an-array](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1524-string-matching-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1720-crawler-log-folder) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0392-is-subsequence) |
 | [0539-minimum-time-difference](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0539-minimum-time-difference) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1524-string-matching-in-an-array](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1720-crawler-log-folder](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0214-shortest-palindrome) |
+| [1524-string-matching-in-an-array](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1524-string-matching-in-an-array) |
 ## Hash Function
 |  |
 | ------- |
