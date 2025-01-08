@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/aryansharma1709/Leetcode_Question/tree/master/2502-sort-the-people) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/aryansharma1709/Leetcode_Question/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/aryansharma1709/Leetcode_Question/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/aryansharma1709/Leetcode_Question/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/aryansharma1709/Leetcode_Question/tree/master/2502-sort-the-people) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/aryansharma1709/Leetcode_Question/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/aryansharma1709/Leetcode_Question/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/aryansharma1709/Leetcode_Question/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -257,15 +259,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0214-shortest-palindrome) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/aryansharma1709/Leetcode_Question/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## String Matching
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0214-shortest-palindrome) |
 | [1524-string-matching-in-an-array](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1524-string-matching-in-an-array) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/aryansharma1709/Leetcode_Question/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0214-shortest-palindrome) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/aryansharma1709/Leetcode_Question/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Combinatorics
 |  |
 | ------- |
@@ -278,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/aryansharma1709/Leetcode_Question/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/aryansharma1709/Leetcode_Question/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/aryansharma1709/Leetcode_Question/tree/master/2691-count-vowel-strings-in-ranges) |
+## Trie
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/aryansharma1709/Leetcode_Question/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
