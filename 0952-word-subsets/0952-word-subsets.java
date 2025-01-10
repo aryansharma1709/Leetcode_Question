@@ -2,46 +2,36 @@
 class Solution {
     public List<String> wordSubsets(String[] words1, String[] words2){
         List<String> l=new ArrayList<>();
-        Map<Character,Integer> m2 = new HashMap<>();
-        for (String word:words2)
-         {
-            Map<Character,Integer> tempm2 = new HashMap<>();
-            for (char ch : word.toCharArray())
+        int [] target=new int[26];
+        for(String word:words2)
+        {
+            int[]temp=new int[26];
+            for(char ch:word.toCharArray())
             {
-                    tempm2.put(ch,tempm2.getOrDefault(ch, 0)+1);
-            }
-            for (Map.Entry<Character, Integer> pair:tempm2.entrySet())
-             {
-                char ch=pair.getKey();
-                int freq=pair.getValue();
-                m2.put(ch, Math.max(m2.getOrDefault(ch,0),freq));
+                temp[ch-'a']++;
+                 target[ch-'a']=Math.max(target[ch-'a'],temp[ch-'a']); 
             }
         }
-        for (String word:words1) 
+        for(String word:words1)
         {
-            Map<Character, Integer> m1=new HashMap<>();
-            for (char ch : word.toCharArray())
-             {
-                m1.put(ch, m1.getOrDefault(ch, 0)+1);
-            }
-
-            boolean flag=true;
-            for (Map.Entry<Character, Integer> pair:m2.entrySet()) 
+            int [] parent= new int[26];
+            for(char ch:word.toCharArray())
             {
-                char ch=pair.getKey();
-                int freq=pair.getValue();
-                if (m1.getOrDefault(ch, 0)<freq) 
-                {
-                    flag=false;
-                    break;
-                }
+                parent[ch-'a']++;
             }
-
-            if (flag) {
+            if(check(parent,target))
+            {
                 l.add(word);
             }
         }
-
         return l;
+    }
+    public boolean check(int[]p,int[]t)
+    {
+        for(int i=0;i<26;i++)
+        {
+            if(p[i]<t[i])return false;
+        }
+        return true;
     }
 }
