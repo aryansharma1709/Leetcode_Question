@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0001-two-sum) |
+| [0042-trapping-rain-water](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0063-unique-paths-ii) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0062-unique-paths) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0042-trapping-rain-water) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0908-middle-of-the-linked-list) |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0042-trapping-rain-water) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -290,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/aryansharma1709/Leetcode_Question/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
