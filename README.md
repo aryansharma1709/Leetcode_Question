@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0787-sliding-puzzle) |
 | [0890-lemonade-change](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0948-sort-an-array) |
+| [0952-word-subsets](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1293-three-consecutive-odds](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1333-sort-the-jumbled-numbers) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0001-two-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0389-find-the-difference) |
+| [0952-word-subsets](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/aryansharma1709/Leetcode_Question/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0392-is-subsequence) |
 | [0539-minimum-time-difference](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0539-minimum-time-difference) |
+| [0952-word-subsets](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0952-word-subsets) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1524-string-matching-in-an-array](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1537-maximum-score-after-splitting-a-string) |
