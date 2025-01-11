@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0952-word-subsets) |
+| [0954-maximum-sum-circular-subarray](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0954-maximum-sum-circular-subarray) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1293-three-consecutive-odds](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1333-sort-the-jumbled-numbers) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0392-is-subsequence) |
+| [0954-maximum-sum-circular-subarray](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0954-maximum-sum-circular-subarray) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sliding Window
 |  |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0948-sort-an-array) |
+| [0954-maximum-sum-circular-subarray](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0954-maximum-sum-circular-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -307,4 +310,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0042-trapping-rain-water) |
+## Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0954-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
