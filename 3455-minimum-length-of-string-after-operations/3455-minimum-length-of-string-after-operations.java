@@ -2,17 +2,19 @@ class Solution {
     public int minimumLength(String s) {
         if(s.length()<=2)
         return s.length();
-        char[] ch=s.toCharArray();
-        Map<Character,Integer> m= new HashMap<>();
-        for (char c:ch) {
-                m.put(c,m.getOrDefault(c,0)+ 1);
-        }
-        int sum=0;
-        int j=0;
-        for ( Integer i:m.values()) {
-              j=i%2==0? 2:1;
-             sum+=j;
-        }
-        return sum;
+      int [] ch=new int[26];
+      int sum=0;
+      for(char str:s.toCharArray())
+      {
+         ch[str-'a']++;
+      }
+      for(int i=0;i<26;i++)
+      {
+        if(ch[i]!=0)
+       { 
+        sum=sum+(ch[i]%2==0?2:1);
+       }
+      }
+      return sum;
     }
 }
