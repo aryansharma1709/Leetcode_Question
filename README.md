@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0392-is-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0678-valid-parenthesis-string) |
 | [0954-maximum-sum-circular-subarray](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0954-maximum-sum-circular-subarray) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sliding Window
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0392-is-subsequence) |
 | [0539-minimum-time-difference](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0539-minimum-time-difference) |
+| [0678-valid-parenthesis-string](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0678-valid-parenthesis-string) |
 | [0952-word-subsets](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0952-word-subsets) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1502-construct-k-palindrome-strings](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1502-construct-k-palindrome-strings) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0134-gas-station) |
+| [0678-valid-parenthesis-string](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0890-lemonade-change) |
 | [1502-construct-k-palindrome-strings](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1502-construct-k-palindrome-strings) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0042-trapping-rain-water) |
+| [0678-valid-parenthesis-string](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0678-valid-parenthesis-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1818-maximum-score-from-removing-substrings) |
