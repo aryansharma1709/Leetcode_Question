@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0389-find-the-difference) |
 | [0393-utf-8-validation](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0393-utf-8-validation) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/aryansharma1709/Leetcode_Question/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2509-minimize-xor](https://github.com/aryansharma1709/Leetcode_Question/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/aryansharma1709/Leetcode_Question/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/aryansharma1709/Leetcode_Question/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Sorting
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2089-maximum-matrix-sum](https://github.com/aryansharma1709/Leetcode_Question/tree/master/2089-maximum-matrix-sum) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/aryansharma1709/Leetcode_Question/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2509-minimize-xor](https://github.com/aryansharma1709/Leetcode_Question/tree/master/2509-minimize-xor) |
 ## Binary Search
 |  |
 | ------- |
