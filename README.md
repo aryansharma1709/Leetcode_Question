@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1293-three-consecutive-odds](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1333-sort-the-jumbled-numbers) |
+| [1396-count-servers-that-communicate](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1396-count-servers-that-communicate) |
 | [1524-string-matching-in-an-array](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1524-string-matching-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0063-unique-paths-ii) |
 | [0787-sliding-puzzle](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1396-count-servers-that-communicate](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1396-count-servers-that-communicate) |
 | [1972-rotating-the-box](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/aryansharma1709/Leetcode_Question/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/aryansharma1709/Leetcode_Question/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0948-sort-an-array) |
+| [1396-count-servers-that-communicate](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1502-construct-k-palindrome-strings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/aryansharma1709/Leetcode_Question/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Tree
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0543-diameter-of-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0988-flip-equivalent-binary-trees) |
+| [1396-count-servers-that-communicate](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1396-count-servers-that-communicate) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -268,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0199-binary-tree-right-side-view) |
 | [0787-sliding-puzzle](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0787-sliding-puzzle) |
+| [1396-count-servers-that-communicate](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1396-count-servers-that-communicate) |
 ## Binary Tree
 |  |
 | ------- |
@@ -333,4 +338,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/aryansharma1709/Leetcode_Question/tree/master/0954-maximum-sum-circular-subarray) |
+## Union Find
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/aryansharma1709/Leetcode_Question/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
